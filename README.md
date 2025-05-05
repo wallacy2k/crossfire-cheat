@@ -16,7 +16,9 @@
 
 5. Press F11 in game to open main menu.
 
-6. Link Site Oficial: https://ricijoproject.com/
+6. Link Download: https://ricijoproject.com/crossfire
+
+7. Link Site Oficial: https://ricijoproject.com/
 
 ## Preview:
 
