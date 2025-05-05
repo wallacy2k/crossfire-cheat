@@ -16,6 +16,8 @@
 
 5. Press F11 in game to open main menu.
 
+6. Link Site Oficial: https://ricijoproject.com/
+
 ## Preview:
 
 ![image][(https://user-images.githubusercontent.com/112902143/189371049-81a23108-8d48-42c4-aa39-7fdd35d58e5d.png](https://ricijoproject.com/assets/images/LoaderCF.png)
